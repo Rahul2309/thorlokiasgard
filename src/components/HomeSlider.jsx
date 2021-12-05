@@ -1,4 +1,4 @@
-import React, { Component, useState } from "react";
+import React, { Component } from "react";
 import Slider from "react-slick";
 import configData from "../utils/config.json"
 

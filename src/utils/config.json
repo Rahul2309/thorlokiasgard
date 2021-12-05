@@ -1,0 +1,11 @@
+{
+    "SITE_URL": "localhost:3000",
+    "SITE_NAME":"LokISchool",
+    "MAIL": "thorloki@asgard.com",
+    "PHONENO": "+91 9916367638",
+    "ADDRESS": "3366 Jefferson Street, NEW HAMPTON, IA",
+    "THEME_COLORS": {
+      "PRIMARY": "#007bff",
+      "SECONDARY": "#fc3"
+    }
+  }
